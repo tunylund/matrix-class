@@ -1,5 +1,5 @@
 {
-  "name": "matrix.js",
+  "name": "matrix-class",
   "version": "1.0.0",
   "description": "A Matrix class implementation with it's basic mathematical features",
   "main": "lib/matrix.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tunylund/matrix.js.git"
+    "url": "git+https://github.com/tunylund/matrix-class.git"
   },
   "keywords": [
     "Matrix",
@@ -22,7 +22,7 @@
   "author": "Tuomas Nylund",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tunylund/matrix.js/issues"
+    "url": "https://github.com/tunylund/matrix-class/issues"
   },
-  "homepage": "https://github.com/tunylund/matrix.js#readme"
+  "homepage": "https://github.com/tunylund/matrix-class#readme"
 }

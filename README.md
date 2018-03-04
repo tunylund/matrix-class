@@ -16,5 +16,5 @@ const 3by3IdentityMatrix = Matrix.identity(3)
 //    |0, 0, 1|
 ```
 
-see https://github.com/tunylund/matrix.js/lib/matrix.js for detailed documentation of Matrix features
+see https://github.com/tunylund/matrix-class/lib/matrix.js for detailed documentation of Matrix features
 
