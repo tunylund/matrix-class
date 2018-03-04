@@ -1,0 +1,28 @@
+{
+  "name": "matrix.js",
+  "version": "1.0.0",
+  "description": "A Matrix class implementation with it's basic mathematical features",
+  "main": "lib/matrix.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --experimental-modules --no-warnings test/matrix-test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunylund/matrix.js.git"
+  },
+  "keywords": [
+    "Matrix",
+    "Math",
+    "algebra"
+  ],
+  "author": "Tuomas Nylund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tunylund/matrix.js/issues"
+  },
+  "homepage": "https://github.com/tunylund/matrix.js#readme"
+}
